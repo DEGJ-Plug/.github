@@ -10,10 +10,6 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-Jake is a Jazzy, Altruistic, Kempt and Efficacious Plug
-
-It is an E-commerce platform which connects buyers to vettedand trustworthy sellers of both goods and services.
-
-It aims to eradicate fraudulent activities in e-commerce fields.
+An easy & satisfactory way to do business
 
 www.jake.ng(WiP)
